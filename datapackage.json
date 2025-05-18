@@ -51,7 +51,7 @@
             "name": "reestrTZ2017", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012017_po31122017.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012017_po31122017.zip?sp=r&st=2025-05-18T12:51:14Z&se=2025-06-18T20:51:14Z&spr=https&sv=2024-11-04&sr=b&sig=IXVm1hDkgXAs6mjZbqRCpcyIKUMjjODLmZxZWtpkVR0%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -59,7 +59,7 @@
             "name": "reestrTZ2016", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012016_po31122016.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012016_po31122016.zip?sp=r&st=2025-05-18T12:51:52Z&se=2025-06-18T20:51:52Z&spr=https&sv=2024-11-04&sr=b&sig=W39mtANuaO%2B3dEDNZ01bXHWt9mNudBVGmUtXYYbgao4%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -67,7 +67,7 @@
             "name": "reestrTZ2015", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012015_po31122015.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012015_po31122015.zip?sp=r&st=2025-05-18T12:52:10Z&se=2025-06-18T20:52:10Z&spr=https&sv=2024-11-04&sr=b&sig=k%2FNjaZVbCq9sK3yMopr3rukEYQAcmTcvgy%2F5tjIzAM4%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -75,7 +75,7 @@
             "name": "reestrTZ2014", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012014_po31122014.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012014_po31122014.zip?sp=r&st=2025-05-18T12:52:28Z&se=2025-06-18T20:52:28Z&spr=https&sv=2024-11-04&sr=b&sig=Y36TsA%2Bs7k9r3ejL7cnlUE2nh4goHer54gzjJ1HCbJo%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -83,7 +83,7 @@
             "name": "reestrTZ2013", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012013_po31122013.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012013_po31122013.zip?sp=r&st=2025-05-18T12:53:01Z&se=2025-06-18T20:53:01Z&spr=https&sv=2024-11-04&sr=b&sig=Uba6vGmt88O073%2F040%2FKAkRc6DXNADPUwOGM%2BxKzh6A%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -91,7 +91,7 @@
             "name": "reestrTZ2019", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012019_po01012020.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012019_po01012020.zip?sp=r&st=2025-05-18T12:53:20Z&se=2025-06-18T20:53:20Z&spr=https&sv=2024-11-04&sr=b&sig=ePQQg7vrwmDbxFCA6vUN8ndj8dWIzf0FUiKUXKq3Fw8%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -99,7 +99,7 @@
             "name": "reestrTZ2020", 
             "format": "csv zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012020_po01012021.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012020_po01012021.zip?sp=r&st=2025-05-18T12:53:43Z&se=2025-06-18T20:53:43Z&spr=https&sv=2024-11-04&sr=b&sig=Z5J7bYbDw2UmI3Y0IUf1YZzTqp3L%2FfTipT8mvDQEcT0%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -107,7 +107,7 @@
             "name": "reestrTZ2021", 
             "format": "csv zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012021_po01012022.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012021_po01012022.zip?sp=r&st=2025-05-18T12:54:04Z&se=2025-06-18T20:54:04Z&spr=https&sv=2024-11-04&sr=b&sig=NSWfSYNnookXrX5K%2FraQkQ%2F0qDkjvZvztIjxuTqV3bI%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -115,7 +115,7 @@
             "name": "reestrTZ2022", 
             "format": "csv zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/reestrtz2022.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/reestrtz2022.zip?sp=r&st=2025-05-18T12:54:22Z&se=2025-06-18T20:54:22Z&spr=https&sv=2024-11-04&sr=b&sig=s6eJidUfb%2BcbK%2FgMr8pevuNsnm8hphND9NXwNOr4MnY%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -123,7 +123,7 @@
             "name": "reestrTZ2022", 
             "format": "CSV ZIP", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/reestrtz2022 (1).zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/reestrtz2022%20(1).zip?sp=r&st=2025-05-18T12:54:43Z&se=2025-06-18T20:54:43Z&spr=https&sv=2024-11-04&sr=b&sig=PUSpX5k2iyCmGAWAjoH2bCHDe%2FQCPtXNrYgyfF9m9CY%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -131,7 +131,7 @@
             "name": "reestrTZ2022", 
             "format": "csv zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/reestrtz2022 (2).zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/reestrtz2022%20(2).zip?sp=r&st=2025-05-18T12:55:13Z&se=2025-06-18T20:55:13Z&spr=https&sv=2024-11-04&sr=b&sig=oslyG0egNq%2BhBSisSs8rDbUJKecEk8b3XhK%2FG2sTdGY%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -139,7 +139,7 @@
             "name": "reestrTZ2023", 
             "format": "ZIP", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/reestrtz2023.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/reestrtz2023.zip?sp=r&st=2025-05-18T12:55:36Z&se=2025-06-18T20:55:36Z&spr=https&sv=2024-11-04&sr=b&sig=aNYYxc3rEb4vEAs6wj1rKQGNeegunGj%2F%2F5xUOQkhfDk%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -147,7 +147,7 @@
             "name": "reestrTZ2024", 
             "format": ".zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/reestrtz2024.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/reestrtz2024.zip?sp=r&st=2025-05-18T12:55:55Z&se=2025-06-18T20:55:55Z&spr=https&sv=2024-11-04&sr=b&sig=Oqrmg0phnJoxsR%2FpdSZIvyAGuOwVWK9CSHebmsjecpM%3D"
         }, 
         {
             "mimetype": "application/zip", 
@@ -155,7 +155,7 @@
             "name": "reestrTZ2025", 
             "format": ".zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/reestrtz2025.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/reestrtz2025.zip?sp=r&st=2025-05-18T12:56:11Z&se=2025-06-18T20:56:11Z&spr=https&sv=2024-11-04&sr=b&sig=e6yC8R92iEjrzI4LlMUQ%2BbZCbau9p9oIEV3fuFUMLf0%3D"
         }
     ], 
     "description": "Набір даних містить інформацію щодо транспортних засобів та їх власників. Інформація в наборі розділена на окремі ресурси, кожен з яких відповідає вказаному періоду."
