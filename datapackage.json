@@ -43,7 +43,7 @@
             "name": "reestrTZ2018", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012018_po01012019.zip"
+            "path": "https://sawedqedt.blob.core.windows.net/zipfiles/tz_opendata_z01012018_po01012019.zip?sp=r&st=2025-05-18T12:09:28Z&se=2025-06-18T20:09:28Z&sv=2024-11-04&sr=b&sig=iDmslqCXviTZSXchuJl6ajxg5T8C6scBiV6VKh2M3a4%3D"
         }, 
         {
             "mimetype": "application/zip", 
