@@ -43,7 +43,7 @@
             "name": "reestrTZ2018", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/01323740-88df-46c2-b06e-fbb58c89fe17/download/tz_opendata_z01012018_po01012019.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1XWIOjoGRaq6BcH8E5z1XDQWQTL8TlXAj"
         }, 
         {
             "mimetype": "application/zip", 
@@ -51,7 +51,7 @@
             "name": "reestrTZ2017", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/9ce32352-bd11-4324-a2b4-5addbd228b1b/download/tz_opendata_z01012017_po31122017.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1QRm8193Fbb9tH1uryiy3RCDVSNT5-GkP"
         }, 
         {
             "mimetype": "application/zip", 
@@ -59,7 +59,7 @@
             "name": "reestrTZ2016", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/7bdc2a1b-5399-4ab0-97e0-633e68837b04/download/tz_opendata_z01012016_po31122016.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1apyWkrbYINEG8FqG2RqUt4pzPgtH2SlB"
         }, 
         {
             "mimetype": "application/zip", 
@@ -67,7 +67,7 @@
             "name": "reestrTZ2015", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/09c606dc-d740-40db-96f0-e679eeca6ace/download/tz_opendata_z01012015_po31122015.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1sikhswmookdSeouIcvq8mRbd8LLpMICF"
         }, 
         {
             "mimetype": "application/zip", 
@@ -75,7 +75,7 @@
             "name": "reestrTZ2014", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/80a115ae-61df-4a13-8771-36c2826268df/download/tz_opendata_z01012014_po31122014.zip"
+            "path": "https://drive.google.com/uc?export=download&id=17yyBQLqTjhNUhKQqsADj2jzgre8ihg1k"
         }, 
         {
             "mimetype": "application/zip", 
@@ -83,7 +83,7 @@
             "name": "reestrTZ2013", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/86a9548b-8323-4fa2-972e-0692edf6959f/download/tz_opendata_z01012013_po31122013.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1K-ZOjcukPiogOgO_rs0Yxh5Z1dvKgYQ8"
         }, 
         {
             "mimetype": "application/zip", 
@@ -91,7 +91,7 @@
             "name": "reestrTZ2019", 
             "format": "csv, zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/7a58e8f7-9323-47d4-a21d-19486e014eb4/download/tz_opendata_z01012019_po01012020.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1waEMISdwdpFKofnvHlvU8Y4cSmLCxEdu"
         }, 
         {
             "mimetype": "application/zip", 
@@ -99,7 +99,7 @@
             "name": "reestrTZ2020", 
             "format": "csv zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/ebeb92fe-424c-41d1-aacf-288e91049dc9/download/tz_opendata_z01012020_po01012021.zip"
+            "path": "https://drive.google.com/uc?export=download&id=10jECWwCFvE8A-i78n8D7TcES_4f7kztG"
         }, 
         {
             "mimetype": "application/zip", 
@@ -107,7 +107,7 @@
             "name": "reestrTZ2021", 
             "format": "csv zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/c5cb530d-0533-40be-b9ad-f03e06c94b10/download/tz_opendata_z01012021_po01012022.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1xK9QAchRNfNOKxoJtRDxl39eYqlLqakC"
         }, 
         {
             "mimetype": "application/zip", 
@@ -115,7 +115,7 @@
             "name": "reestrTZ2022", 
             "format": "csv zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/bef7b47b-7963-44b5-88a8-f84241137b5b/download/reestrtz2022.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1ZWyUbif2ztAjcFSGqvnsCTYX269u8f-S"
         }, 
         {
             "mimetype": "application/zip", 
@@ -123,7 +123,7 @@
             "name": "reestrTZ2022", 
             "format": "CSV ZIP", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/fb6d9eb4-875e-45c9-be51-d49b6875b9eb/download/reestrtz2022.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1kTNSRhr4JsEKIWfzf32rUFTpId0y8rNb"
         }, 
         {
             "mimetype": "application/zip", 
@@ -131,7 +131,7 @@
             "name": "reestrTZ2022", 
             "format": "csv zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/b1bcb4a9-8e60-4a1c-91c0-00faae008816/download/reestrtz2022.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1vhwFzXN3wxtB5nIrnUKbjs-zIruo7GnE"
         }, 
         {
             "mimetype": "application/zip", 
@@ -139,7 +139,7 @@
             "name": "reestrTZ2023", 
             "format": "ZIP", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/c3a12388-55c2-4546-8b71-b4b7ff0d8b16/download/reestrtz2023.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1SmS9JqZ8dL_1hLSyhhm5kTy_29d_d9i5"
         }, 
         {
             "mimetype": "application/zip", 
@@ -147,7 +147,7 @@
             "name": "reestrTZ2024", 
             "format": ".zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/c3ffecc4-bb5c-4102-b761-6dcfeb60b4fe/download/reestrtz2024.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1PQom8F72urCMPvPNd3YcBidU-UEH2v1U"
         }, 
         {
             "mimetype": "application/zip", 
@@ -155,7 +155,7 @@
             "name": "reestrTZ2025", 
             "format": ".zip", 
             "encoding": "utf-8", 
-            "path": "https://data.gov.ua/dataset/0ffd8b75-0628-48cc-952a-9302f9799ec0/resource/3f13166f-090b-499e-8e23-e9851c5a5f67/download/reestrtz2025.zip"
+            "path": "https://drive.google.com/uc?export=download&id=1ztucVo0xUulqLzYo5kX9px3M2JPzU0lP"
         }
     ], 
     "description": "Набір даних містить інформацію щодо транспортних засобів та їх власників. Інформація в наборі розділена на окремі ресурси, кожен з яких відповідає вказаному періоду."
